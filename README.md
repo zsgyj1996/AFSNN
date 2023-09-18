@@ -11,3 +11,8 @@ learning module that differentiates the outputs of the two feature extraction mo
 by maximizing the output differences. This approach blocks background features and enhances sensitivity to anomaly features during
 training. Experiments show that AFSNN can effectively attenuate
 the confusing interference of the background pattern
+
+<div align=center>
+<img src="images/AFSNN.png"><img src="images/crossatt.png"><img src="images/scm.png">
+</div>
+
