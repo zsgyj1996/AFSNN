@@ -13,6 +13,8 @@ training. Experiments show that AFSNN can effectively attenuate
 the confusing interference of the background pattern
 
 <div align=center>
-<img src="images/AFSNN.png"><img src="images/crossatt.png"><img src="images/scm.png">
+<img src="images/AFSNN.png">
+<img src="images/crossatt.png">
+<img src="images/scm.png">
 </div>
 
